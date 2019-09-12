@@ -1,0 +1,13 @@
+1.when app initlizes check weather bluetooth is on /off
+ a.if bluetooth is off
+  1.generate a promt to turn on bluetooth
+ b.if user cancels that event 
+  1.close that app
+2.enable list picker and show avialable devices
+3.if user selects a device try to connect to the bluetooth device
+  a.else wait at step to be done
+4.if device is sucessfully connected
+  a.wait for user input
+   1.if user input is available 
+     a.have to send that input trough mobile bluetooh module
+   2.wait for another input 
