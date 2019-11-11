@@ -1,0 +1,90 @@
+CourseNo,Coursera Week number,Topics,Sub topics,Duration,No of Quizes,No of Assignments,Datasets for Assignments,Assignment Questions Notebook file
+1,2, data cleaning and processing -- pandas,Introduction to Pandas,5,1,1,Olympics,Assignment2
+,,,Series Data Structure,,,,,
+,,,Querying Series,,,,,
+,,,DataFrame Data Structure,,,,census,
+,,,DataFrame Indexing and loading,,,,,
+,,,Querying a DataFrame,,,,,
+,3,"Merging,Groupby",Merging DataFrame,5,0,1,Energy Indicators,Assignment3
+,,,Pandas Idioms,,,,,
+,,,Groupby,,,,world_bank,
+,,,Scales,,,,,
+,,,Pivot tables,,,,scimagojr-3,
+,,,Date functionality,,,,,
+,4,Statistical Analysis in Python,,7,0,1,City_Zhvi_AllHomes,Assignment 4
+,,,Intoduction to statistical analysis,,,,,
+,,,Distributions,,,,university_towns.txt,
+,,,More Distributions,,,,,
+,,,Hypothesis testing,,,,gdplev.xls,
+,,,,,,,,
+2,1,Principles of Information Visualization,introduced to tools for thinking about design,5,0,1,,Peer Grade Assignment
+,,,Alberto Cairo principals,,,,,
+,2,Basic Charting,,9,0,1,Dataset,Assignment 2
+,,,"Intoduction,matplotliib",,,,,
+,,,"scatter plot,line plot",,,,,
+,,,Bar chart,,,,,
+,3,Charting Fundamentals,Subplots,10,0,2,Assignment Reading,Assignment 3
+,,,histograms,,,,,
+,,,Boxplot,,,,,
+,,,"Animation,interactivity",,,,,
+,4,Applied Visualizations,"plotting with pandas,Seaborn,spurious correlations ",7,0,1,Peer grade Assignment,Assignment4
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+3,1,Fundamentals of Machine Learning - Intro to SciKit Learn,"Introduction,key concepts in Machine Learning,K-nearest Neighbours classification",9,1,1,,Assignment-1
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,2,Supervised Machine Learning - Part 1,"Introduction to superwised ML,overfitting,underfitting,linear regression,ridge,lasso,logistic regression,cross validation,decision trees,multi class classification",12,1,1,,Assignment-2
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,3,evaluation and model selection methods ,"Model evalution and selection,Confusion matrices and Evalution metrics,multi class evalution and regression evalution",9,1,1,,Assignment-3
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,4,Supervised Machine Learning - Part 2,"Naive Bayes Classifiers,Neural Networks
+,Data Leakage",12,1,1,,Assignment-4
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+4,1,Working with Text in Python,"Introduction to text mining,Regx with pandas and named groups,common issues with free text",9,1,1,Dates.txt,Assignment1
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,2,Basic Natural Language Processing,"Basic NLP tasks with NLTK,Advanced NLP tasks with NLTK,",8,2,1,moby.txt,Assignment2
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,3,Classification of Text,"Text classification,Identifying features from text,Naive Bayes Classifiers,Naive Bayes Variations,Sentiment Analysis case study",9,1,1,,Assignment3
+,,,,,,,spam.csv,
+,,,,,,,,
+,,,,,,,,
+,4, Topic Modeling,"Semantic Text Similarity,Topic Modeling,Generative Models and LDA,Information Extraction",7,1,1,paraphrases.csv,Assignment4
+,,,,,,,,
+,,,,,,,newsgroups,
+,,,,,,,,
+5,1,Study of Networks and Basics on NetworkX,"Definition and why we study,Node and edge attributes,Bipartite Graphs,Loading Graphs in NetworkX",9,1,1,Employee_Movie_Choices.txt,Assignment1
+,,,,,,,,
+,,,,,,,Employee_Relationships.txt,
+,,,,,,,,
+,2, Network Connectivity,"Clustering Coefficient,
+Distance Measures,
+Connected Components,
+Network Robustness",9,1,1,Email_network,Assignment2
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,3,Influence Measures and Network Centralization,"Degree and Closeness Centrality,
+Betweenness Centrality,
+Basic Page Rank,
+Scaled Page Rank",8,1,1,bolgs.gml,Assignment3
+,,,,,,,,
+,,,,,,,friendships.gml,
+,,,,,,,,
+,4,Network Evolution,"Preferential Attachment Model,Small World Networks,Link Prediction",9,1,1,A4-Graphs,Assignment4
+,,,,,,,,
+,,,,,,,email_predition,
+,,,,,,,Future_connection,
+,,,,,,,,
+,,,Total Hours,158,,,,
